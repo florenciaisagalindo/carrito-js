@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Vela de soja",
+        "id": 1, 
+        "price": 700, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/9wLpHn3/Vela-de-cactus-y-flor-de-cactus-pequen-a-de-5-oz-Confetti-de-Paddywax-ASOS.jpg"
+
+    },
+    {
+        "name": "Incienso",
+        "id": 2, 
+        "price": 380, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/cxFRfDV/Este-arti-culo-no-esta-disponible-Etsy.jpg"
+
+    },
+    {
+        "name": "Sahumo",
+        "id": 3, 
+        "price": 450, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/6wJjPVg/Sahumo-de-Flores-Sagrada-Madre.jpg"
+
+    },
+    {
+        "name": "Palo Santo",
+        "id": 4, 
+        "price": 550, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/344Q24d/palo-santo-2-stick-bundle.jpg"
+
+    },
+    {
+        "name": "Essential Oil",
+        "id": 5, 
+        "price": 700, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/1zzwgLr/Essential-Oil-Dropper-Bottle-Labels-Printable-Labels-Roller-Bottle-Labels-Essential-Oil-Labels-Essen.jpg"
+
+    },
+    {
+        "name": "Péndulo de Amatista",
+        "id": 6, 
+        "price": 3800, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/dbHk82B/pendulo.png"
+
+    },
+    {
+        "name": "Gato Maneki Neko",
+        "id": 7, 
+        "price": 3980, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/dJpVh2Z/Maneki-Neko-Lucky-Cat-Gold.jpg"
+
+    },
+    {
+        "name": "Buda pack x 3",
+        "id": 8, 
+        "price": 4380, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/bgr0Sm0/Kit-Adorno-Decor-03-Budas.jpg"
+
+    },
+    {
+        "name": "Difusor en sticks",
+        "id": 9, 
+        "price": 900, 
+        "description": "" ,
+        "category": "",
+        "image": "https://i.ibb.co/sHwV5LF/Difusor.png"
+
+    }
+    
+]

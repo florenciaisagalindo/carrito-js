@@ -1,0 +1,28 @@
+.container-cards .card{
+    border: none !important;
+}
+#productsContainer > div > a > div > img{
+    width: 200px;
+    height: 300px;
+    margin: auto auto;
+}
+.container-cards .card-body{
+    text-align: center;
+    text-decoration: none !important;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+ .boton-agregar{
+    position: absolute;
+    background-color: white !important;
+    border-color: transparent !important;
+    top: 3px !important;
+    color: black !important;
+    border-radius: 50% !important;
+    right: 0;
+    width: 35px;
+    padding: 0 !important;
+    font-size: 24px!important;
+}
+

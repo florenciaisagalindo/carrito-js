@@ -1,0 +1,13 @@
+#Cart__ItemList{
+    display: flex;
+
+}
+.table{
+    vertical-align: inherit !important;
+}
+.tbody, td, tfoot, th, thead, tr{
+    border: none !important;
+}
+#items > tr > th{
+    display: none;
+}

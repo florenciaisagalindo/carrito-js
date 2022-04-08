@@ -1,0 +1,23 @@
+#payment-data-section{
+    background-color: #f8f9fa;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    margin: auto 50px;
+
+    
+}
+#payment-data-section > ul > li{
+    color: #6a6a6a;
+}
+#payment-data-section > ul > li > svg{
+    font-size: 30px !important;
+    margin-bottom: .5em;
+}
+#payment-data-section > ul > li > p{
+    margin-bottom: 0em;
+}
+#verPromos > p, #verMas > p {
+    color: rgb(107, 187, 255) !important;
+    font-size: 14px;
+}
+
